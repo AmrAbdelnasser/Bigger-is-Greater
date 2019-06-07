@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559953045 source:c:\users\user\documents\myc++\biggerstring\biggerstring\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

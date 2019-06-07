@@ -1,2 +1,9 @@
+https://www.hackerrank.com/challenges/bigger-is-greater/problem
+
 # Bigger-is-Greater
-Given a word, a new word is created by swapping some or all of its characters
+Lexicographical order is often known as alphabetical order when dealing with strings. A string is greater than another string if it comes later in a lexicographically sorted list.
+
+Given a word, create a new word by swapping some or all of its characters. This new word must meet two criteria:
+
+-It must be greater than the original word
+-It must be the smallest word that meets the first condition
